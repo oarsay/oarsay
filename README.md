@@ -146,13 +146,6 @@
 
 ----
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/oelkapmis"><img alt="oelkapmis' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=oelkapmis&custom_title=Contribution%20Graph%20of%20Oguzhan%20Elkapmis&theme=react-dark" /></a>
-  <br/>
-
-<br/>
-
 ## :trophy: Git profile Trophies
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oelkapmis&layout=compact&theme=algolia" alt="oelkapmis" /></a> </p>
