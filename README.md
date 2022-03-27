@@ -128,8 +128,8 @@
 
 <br/>
 
-## 📊 GitHub Stats
 
+## 📊 GitHub Stats
 
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
@@ -139,6 +139,10 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="oelkapmis's Github Stats" src="https://github-readme-stats.vercel.app/api?username=oelkapmis&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
+
+<summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/oelkapmis"><img alt="oelkapmis' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=oelkapmis&custom_title=Contribution%20Graph%20of%20Oguzhan%20Elkapmis&theme=react-dark" /></a>
 
 ----
 
