@@ -1,3 +1,5 @@
+___
+
 <h1 align="center">Hi , I'm Oguzhan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/oelkapmis"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
@@ -26,7 +28,7 @@
 <br>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+## :mailbox_with_mail: Connect with me
 
 <p align="center">
 	<a href="mailto:oguzhan.elkapmis@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -149,4 +151,3 @@
 ## :trophy: Git profile Trophies
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oelkapmis&layout=compact&theme=algolia" alt="oelkapmis" /></a> </p>
-
