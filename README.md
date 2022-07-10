@@ -2,7 +2,7 @@ ___
 
 <h1 align="center">Hi , I'm Oguzhan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/oelkapmis"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/oelkapmis"><img src="https://readme-typing-svg.herokuapp.com?lines=Android+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 
@@ -12,10 +12,10 @@ ___
 
 ## :raising_hand_man:  About me
 
-- :pencil2: I am a student at `Computer Engineering Department` at `Cukurova University`
-- :computer: I like `competitive programming`, mainly at `Codeforces`
-- :mortar_board: I’m currently learning: `Android Development`
-- :handshake: I’m currently open for: `An Intern` or a new `job opportunity`
+- :mortar_board: I graduated from the `Cukurova University, Department of Computer Engineering`
+- :computer: I like `Android` and `competitive programming`
+- :pencil2: I’m currently learning: `Android Development`
+- :handshake: I’m currently open for `an intern` or a new `job opportunity`
 - :mag_right: Always learning new things
 
 <br>
