@@ -2,7 +2,7 @@ ___
 
 <h1 align="center">Hi , I'm Oguzhan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/oelkapmis"><img src="https://readme-typing-svg.herokuapp.com?lines=Android+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/oelkapmis"><img src="https://readme-typing-svg.herokuapp.com?lines=Junior+Unity+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 
@@ -13,8 +13,8 @@ ___
 ## :raising_hand_man:  About me
 
 - :mortar_board: I graduated from the `Cukurova University, Department of Computer Engineering`
-- :computer: I like `Android` and `competitive programming`
-- :pencil2: I’m currently learning: `Android Development`
+- :computer: I like `Android` and `Game Development`
+- :pencil2: I’m currently learning: `Unity Mobile Game Development`
 - :handshake: I’m currently open for `an intern` or a new `job opportunity`
 - :mag_right: Always learning new things
 
@@ -47,6 +47,10 @@ ___
 
 <p align="center"> 
   &emsp;
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
+    <img alt="C#" src="https://img.shields.io/badge/C#-%23007396.svg?style=plastic&logo=csharp&logoColor=white&color=blueviolet">
+  </a>
+  &emsp;
   <a href="https://kotlinlang.org/" target="_blank"> 
     <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%23007396.svg?style=plastic&logo=kotlin&logoColor=white&color=black">
   </a>
@@ -63,7 +67,11 @@ ___
 
  ### 👉 Software & Tools
 
+
+
 <p align="center">
+  &emsp;
+    <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity%20-%23181717.svg?style=plastic&logo=unity&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
@@ -90,13 +98,13 @@ ___
 
 <p align="center">
   &emsp;
-    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/IntelliJ IDEA-%23000000.svg?style=plastic&logo=IntelliJ IDEA&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android Studio-%2366595C.svg?&style=plastic&logo=Android Studio&logoColor=white&color=32DE84" /></a>
-  &emsp;
+    <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-0078d7.svg?style=plastic&logo=visual-studio&logoColor=white"></a>
+    &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20IDE-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
+    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android Studio-%2366595C.svg?&style=plastic&logo=Android Studio&logoColor=white&color=32DE84" /></a>
+  
+  
 </p>
 
 
