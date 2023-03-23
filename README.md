@@ -2,30 +2,20 @@ ___
 
 <h1 align="center">Hi , I'm Oguzhan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/oarsay"><img src="https://readme-typing-svg.herokuapp.com?lines=Junior+Unity+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/oarsay"><img src="https://readme-typing-svg.herokuapp.com?lines=Unity+Game+Developer;Casual/Hyper-casual+Games;Always+learning+new+things;&center=true&width=500&height=50"></a>
 </p>
 
-
-
-
-<br>
 
 ## :raising_hand_man:  About me
 
 - :mortar_board: I graduated from the `Cukurova University, Department of Computer Engineering`
-- :computer: I like `Android` and `Game Development`
-- :pencil2: I’m currently learning: `Unity Mobile Game Development`
-- :handshake: I’m currently open for `an intern` or a new `job opportunity`
-- :mag_right: Always learning new things
-
-<br>
+- :computer: I develop `Mobile Games` with `Unity3D`
+- :thumbsup: I like chess :chess_pawn: and Russian language :ru:
 
 ## 🔥 Streak Stats
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=oarsay&theme=algolia" alt="oarsay" /></p>
 
-<br>
-<br>
 
 
 ## :mailbox_with_mail: Connect with me
@@ -38,123 +28,10 @@ ___
 </p>
 
 
-
-
-
-## 🛠️ My Skills
-
-### 👉 Programming Languages
-
-<p align="center"> 
-  &emsp;
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
-    <img alt="C#" src="https://img.shields.io/badge/C#-%23007396.svg?style=plastic&logo=csharp&logoColor=white&color=blueviolet">
-  </a>
-  &emsp;
-  <a href="https://kotlinlang.org/" target="_blank"> 
-    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%23007396.svg?style=plastic&logo=kotlin&logoColor=white&color=black">
-  </a>
-  &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white&color=f89820">
-  </a>
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/-%232370ED.svg?style=plastic&logo=c&logoColor=white">
-  </a> 
-</p>
-
-
- ### 👉 Software & Tools
-
-
-
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity%20-%23181717.svg?style=plastic&logo=unity&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Android Google" src="https://img.shields.io/badge/Android Google-%230F9D58.svg?style=plastic&logo=android&logoColor=white&color=78C257"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Geeks For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Firebase" img src="https://img.shields.io/badge/Firebase-%23000000.svg?style=plastic&logo=Firebase&logoColor=FFA611&color=059BE5"></a>
-  &emsp;
-    <a href="#"><img alt="JetBrains" src="https://img.shields.io/badge/JetBrains-%230F9D58.svg?style=plastic&logo=JetBrains&logoColor=white&color=black"></a>
-
-</p>
-
-
- ### 👉 IDEs
-
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-0078d7.svg?style=plastic&logo=visual-studio&logoColor=white"></a>
-    &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android Studio-%2366595C.svg?&style=plastic&logo=Android Studio&logoColor=white&color=32DE84" /></a>
-  
-  
-</p>
-
-
- ### 👉 Competitive Programming & Problem Solving
-
-<p align="center">
-  &emsp;
-    <a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
-  &emsp;
-    <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
-  &emsp;
-    <a href="#"><img alt = "Hackerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "Coderbyte" src="https://img.shields.io/badge/coderbyte-%235B4638.svg?style=plastic&logo=cloudera&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
-</p>
-
-
- ### 👉 Operating Systems
-
-<p align="center">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-</p>
-
-
-<br/>
-
-
 ## 📊 GitHub Stats
-
-
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
 
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="oarsay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=oarsay&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-
-<summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/oarsay"><img alt="oarsay' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=oarsay&custom_title=Contribution%20Graph%20of%20Oguzhan%20Arsay&theme=react-dark" /></a>
-
-----
 
 ## :trophy: Git profile Trophies
 
