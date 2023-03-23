@@ -10,7 +10,7 @@ ___
 
 - :mortar_board: I graduated from the `Cukurova University, Department of Computer Engineering`
 - :computer: I develop `Mobile Games` with `Unity3D`
-- :thumbsup: I like chess :chess_pawn: and Russian language :ru:
+- :thumbsup: I like `chess`:chess_pawn: and `Русский язык` :ru:
 
  <br>
 ## 🔥 Streak Stats
