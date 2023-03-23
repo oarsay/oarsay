@@ -12,10 +12,10 @@ ___
 - :computer: I develop `Mobile Games` with `Unity3D`
 - :thumbsup: I like chess :chess_pawn: and Russian language :ru:
 
+ <br>
 ## 🔥 Streak Stats
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=oarsay&theme=algolia" alt="oarsay" /></p>
-
 
 
 ## :mailbox_with_mail: Connect with me
