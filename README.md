@@ -24,8 +24,8 @@ ___
 ## :speech_balloon: Connect with me
 
 <p align="center">
-  <a href="mailto:oguzhan.arsay@gmail.com"><img src="https://github.com/oarsay/oarsay/blob/main/images/gmail.png" width="48px"></a> &nbsp
-  <a href="https://www.linkedin.com/in/oarsay/"><img src="https://github.com/oarsay/oarsay/blob/main/images/linkedin.png" width="48px"></a> &nbsp
-  <a href="https://wa.me/905327118280"><img src="https://github.com/oarsay/oarsay/blob/main/images/whatsapp.png" width="48px"></a> &nbsp
-  <a href="http://oguzhanarsay.com.tr/"><img src="https://github.com/oarsay/oarsay/blob/main/images/website.png" width="48px"></a>
+  <a href="mailto:oguzhan.arsay@gmail.com" target=”_blank”><img src="https://github.com/oarsay/oarsay/blob/main/images/gmail.png" width="48px"></a> &nbsp
+  <a href="https://www.linkedin.com/in/oarsay/" target=”_blank”><img src="https://github.com/oarsay/oarsay/blob/main/images/linkedin.png" width="48px"></a> &nbsp
+  <a href="https://wa.me/905327118280" target="_blank"><img src="https://github.com/oarsay/oarsay/blob/main/images/whatsapp.png" width="48px"></a> &nbsp
+  <a href="http://oguzhanarsay.com.tr/" target="_blank"><img src="https://github.com/oarsay/oarsay/blob/main/images/website.png" width="48px"></a>
 </p>
