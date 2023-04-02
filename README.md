@@ -13,7 +13,7 @@ ___
 
 <br>
  
-## 🔥 My GitHub Stats
+## 🔥 GitHub Stats
 
 <p align="center">
 	<img alt="Oguzhan Arsay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=oarsay&theme=radical" height="192px"/>
@@ -24,8 +24,8 @@ ___
 ## :speech_balloon: Connect with me
 
 <p align="center">
-	<a href="mailto:oguzhan.arsay@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/oarsay/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://wa.me/905327118280"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-	<a href="https://github.com/oarsay"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>    
+  <a href="mailto:oguzhan.arsay@gmail.com"><img src="https://github.com/oarsay/oarsay/blob/main/images/gmail.png" width="48px"></a> &nbsp
+  <a href="https://www.linkedin.com/in/oarsay/"><img src="https://github.com/oarsay/oarsay/blob/main/images/linkedin.png" width="48px"></a> &nbsp
+  <a href="https://wa.me/905327118280"><img src="https://github.com/oarsay/oarsay/blob/main/images/whatsapp.png" width="48px"></a> &nbsp
+  <a href="http://oguzhanarsay.com.tr/"><img src="https://github.com/oarsay/oarsay/blob/main/images/website.png" width="48px"></a>
 </p>
