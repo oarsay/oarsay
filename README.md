@@ -2,13 +2,13 @@ ___
 
 <h1 align="center">Hi , I'm Oguzhan :raised_hand_with_fingers_splayed:</h1>
 <p align="center">
-  <a href="http://oguzhanarsay.com.tr/"><img src="https://readme-typing-svg.herokuapp.com?font=Hobo+Sans&duration=4000&pause=100&lines=Unity+Game+Developer;Casual/Hyper-casual+Games;&center=true&width=500&height=50&color=ff006b&weight=200&size=22"></a>
+  <a href="http://oguzhanarsay.com.tr/"><img src="https://readme-typing-svg.herokuapp.com?font=Hobo+Sans&duration=4000&pause=100&lines=Software+Developer;Android development & Game development;&center=true&width=500&height=50&color=ff006b&weight=200&size=22"></a>
 </p>
 
 ## :raising_hand_man:  About me
 
 - :mortar_board: I graduated from the `Cukurova University, Department of Computer Engineering`
-- :computer: I develop `Mobile Games` with `Unity3D`
+- :computer: I develop `Android apps` and `Mobile Games`
 - :thumbsup: I like `chess`:chess_pawn: and `Русский язык` :ru:
 
 <br>
