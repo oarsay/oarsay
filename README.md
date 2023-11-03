@@ -1,6 +1,6 @@
 ___
 
-<h1 align="center">Hi , I'm Oguzhan :raised_hand_with_fingers_splayed:</h1>
+<h1 align="center">Hi , I'm Sasha :raised_hand_with_fingers_splayed:</h1>
 <p align="center">
   <a href="http://oguzhanarsay.com.tr/"><img src="https://readme-typing-svg.herokuapp.com?font=Hobo+Sans&duration=4000&pause=100&lines=Software+Developer;Android+apps+and+Mobile+games;&center=true&width=500&height=50&color=ff006b&weight=200&size=22"></a>
 </p>
@@ -16,7 +16,7 @@ ___
 ## 🔥 GitHub Stats
 
 <p align="center">
-	<img alt="Oguzhan Arsay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=oarsay&buefy=radical" height="192px"/>
+	<img alt="Sasha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=oarsay&buefy=radical" height="192px"/>
 	<br><br>
 	<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oarsay&theme=buefy&layout=compact" height="192px"/>
 </p>
