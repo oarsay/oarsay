@@ -16,7 +16,7 @@ ___
 ## 🔥 GitHub Stats
 
 <p align="center">
-	<img alt="Sasha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=oarsay&buefy=radical" height="192px"/>
+	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=oarsay"/></a>
 	<br><br>
 	<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oarsay&theme=buefy&layout=compact" height="192px"/>
 </p>
