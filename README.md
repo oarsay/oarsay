@@ -18,7 +18,7 @@ ___
 <p align="center">
 	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=oarsay"/></a>
 	<br><br>
-	<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oarsay&theme=buefy&layout=compact" height="192px"/>
+	<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oarsay&langs_count=3&hide=shaderlab,css,scss,hlsl,html&theme=buefy&layout=compact" height="192px"/>
 </p>
 
 ## :speech_balloon: Connect with me
