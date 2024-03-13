@@ -7,6 +7,7 @@ ___
 - :mortar_board: I graduated from the `Cukurova University, Department of Computer Engineering`
 - :computer: Creating `Android apps` using `Java & Kotlin`
 - :heart: I enjoy `speed chess`, `Русский язык` and `trading/investing on the stock market`
+- :herb: A better world is possible, I support veganism
 
 <br>
 
